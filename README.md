@@ -1,14 +1,14 @@
 # AcademicProjects
 ##Seneca College
 
-###**1.DBS 501:** 
+###1.DBS 501
 
 - Use a 3rd generation language (3GL) to access data in an Oracle database
 - Code PL/SQL objects to access and maintain data in an Oracle database
 - Develop and maintain objects such as procedures, functions, packages and database triggers in the data dictionary
 - Establish appropriate logic in PL/SQL objects to maintain the integrity of the data
 
-###**2.IPC 144:**
+###2.IPC 144
 
 - Design functions using selection and iteration constructs to solve a programming task
 - Connect functions using pass-by-value and pass-by-address semantics to assemble a complete program
