@@ -1,8 +1,4 @@
 /* -------------------------------
-Name:Wonhwa Lee
-Student number:076 086 149
-Email:wlee72@myseneca.ca
-Section:SGG
 Date:April 2, 2019
 ----------------------------------
 Assignment: 2
