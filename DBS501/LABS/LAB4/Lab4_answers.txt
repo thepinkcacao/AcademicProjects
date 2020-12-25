@@ -1,9 +1,7 @@
 +-------------------------+
 | DBS501 LAB 4 Submission |
 +-------------------------+
-			  
-Name: WONHWA LEE	  
-Student Number: 076086149
+
 
 
 --Question 1)------------------------------------------------------------------------------------------
@@ -360,14 +358,14 @@ Willig		This Instructor is NOT scheduled to teach.
 Wojick		This Instructor will teach 10 course and needs a vacation.
 
 
-CASE 2: B) After INPUT parameters ‘PETER’ and ‘PAN’ were provided	
+CASE 2: B) After INPUT parameters Â‘PETERÂ’ and Â‘PANÂ’ were provided	
 
 MESSAGE
 --------------------------------------------------------------------------------
 There is NO such instructor.
 
 
-CASE 3: C) After INPUT parameters ‘IRENE’ and ‘WILLIG’ were provided
+CASE 3: C) After INPUT parameters Â‘IRENEÂ’ and Â‘WILLIGÂ’ were provided
 
 MESSAGE
 --------------------------------------------------------------------------------
